@@ -9,7 +9,7 @@ public class RSAKeyGen{
     public static KeyPair generate(){
 
         BigInteger p, q, n, phi, e, d;
-        int bitLength = 1024;
+        int bitLength = Key.KEY_SIZE;
         Random r;
 
         r = new Random();
