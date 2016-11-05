@@ -12,3 +12,10 @@
 hs_err_pid*
 /Kake/nbproject/private/
 /Kake/build/
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
